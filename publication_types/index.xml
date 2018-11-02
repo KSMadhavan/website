@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Your Website Name</title>
-    <link>http://www.yourdomain.com/publication_types/</link>
-    <description>Recent content in Publication_types on Your Website Name</description>
+    <title>Publication_types on K S Madhavan &amp; Associates</title>
+    <link>http://www.ksmadhavan.in/publication_types/</link>
+    <description>Recent content in Publication_types on K S Madhavan &amp; Associates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
-    <copyright>&amp;copy; 2018 yourCompanyName</copyright>
+    <copyright>&amp;copy; 2018 K S Madhavan &amp; Associates</copyright>
     <lastBuildDate>Tue, 17 Jul 2018 23:40:05 +0530</lastBuildDate>
     
-	<atom:link href="http://www.yourdomain.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ksmadhavan.in/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Journal Article</title>
-      <link>http://www.yourdomain.com/publication_types/journal-article/</link>
+      <link>http://www.ksmadhavan.in/publication_types/journal-article/</link>
       <pubDate>Tue, 17 Jul 2018 23:40:05 +0530</pubDate>
       
-      <guid>http://www.yourdomain.com/publication_types/journal-article/</guid>
+      <guid>http://www.ksmadhavan.in/publication_types/journal-article/</guid>
       <description></description>
     </item>
     
