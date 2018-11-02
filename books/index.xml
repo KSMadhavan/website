@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Your Website Name</title>
+    <link>http://www.yourdomain.com/books/</link>
+    <description>Recent content in Books on Your Website Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    <copyright>&amp;copy; 2018 yourCompanyName</copyright>
+    <lastBuildDate>Fri, 08 Jun 2018 19:44:35 +0530</lastBuildDate>
+    
+	<atom:link href="http://www.yourdomain.com/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3&#39;s company, fours a crowd</title>
+      <link>http://www.yourdomain.com/books/book3/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book3/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>4 pillars of marketing</title>
+      <link>http://www.yourdomain.com/books/book4/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book4/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>5S</title>
+      <link>http://www.yourdomain.com/books/book5/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book5/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>5S Organizational Principles</title>
+      <link>http://www.yourdomain.com/books/book1/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book1/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>6 thinking Hats</title>
+      <link>http://www.yourdomain.com/books/book6/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book6/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>7 pence none the richer</title>
+      <link>http://www.yourdomain.com/books/book7/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book7/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>Dasharatha</title>
+      <link>http://www.yourdomain.com/books/book10/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book10/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>Two tries</title>
+      <link>http://www.yourdomain.com/books/book2/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book2/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>eight ways of the wise</title>
+      <link>http://www.yourdomain.com/books/book8/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book8/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+    <item>
+      <title>nine gems. navratna</title>
+      <link>http://www.yourdomain.com/books/book9/</link>
+      <pubDate>Fri, 08 Jun 2018 19:44:35 +0530</pubDate>
+      
+      <guid>http://www.yourdomain.com/books/book9/</guid>
+      <description>The book is a comprehensive book on everything under the sun. How many roads must a man walk down
+Before you call him a man?</description>
+    </item>
+    
+  </channel>
+</rss>
